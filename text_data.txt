@@ -1,0 +1,2 @@
+api_key = "mySuperSecretKey123"
+password = "Admin@123"
